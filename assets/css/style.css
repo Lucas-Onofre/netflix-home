@@ -396,6 +396,10 @@ img.nav-logo{
         height: 3rem;
         font-size: 1.1rem;
     }
+
+    .main-content{
+        min-height: 70vh;
+    }
 }
 
 @media (max-width: 321px){
