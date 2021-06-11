@@ -87,7 +87,7 @@ nav{
 }
 
 .main-content{
-    max-height: 100vh;
+    min-height: 100vh;
 }
 
 img.nav-logo{
